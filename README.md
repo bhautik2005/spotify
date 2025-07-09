@@ -5,6 +5,7 @@ Spotify UI Clone
 A modern, responsive, and visually-rich clone of the Spotify web player interface. This project uses pure HTML and CSS for the layout and is brought to life with JavaScript for dynamic song loading and audio playback controls.
 
 ✨ Preview
+
 img_1
 ![image alt](https://github.com/bhautik2005/spotify/blob/2ea0189718444dbe052ac3a0ed6fbaa7195c8647/Screenshot%202025-07-09%20194227.png)
 img_2
