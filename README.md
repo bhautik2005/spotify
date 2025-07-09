@@ -8,6 +8,8 @@ A modern, responsive, and visually-rich clone of the Spotify web player interfac
 
 ![image alt](https://github.com/bhautik2005/spotify/blob/2ea0189718444dbe052ac3a0ed6fbaa7195c8647/Screenshot%202025-07-09%20194227.png)
 
+![image alt](https://github.com/bhautik2005/spotify/blob/c707ab1aa141644b2102e9cb6a902b64f8a011d3/Screenshot%202025-07-09%20194447.png)
+
 Here's a look at the finished user interface, showcasing the main content area with dynamically loaded songs and the interactive player.
 
 📋 Table of Contents
